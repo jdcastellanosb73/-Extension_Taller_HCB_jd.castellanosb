@@ -1,0 +1,105 @@
+/* Add your styles here */
+
+img {
+    max-width: 105%;
+}
+
+h1 {
+    font-style: oblique;
+    color: black;
+}
+
+h3 {
+    font-style: inherit;
+}
+
+li {
+    margin-bottom: 2rem;
+}
+
+.bloqueinformativo {
+    width: 100%;
+}
+
+.row {
+    display: flex;
+}
+
+.informacion {
+    margin-left: 2rem;
+    width: 45%;
+}
+
+.informacion h2 {
+    font-style: oblique;
+    color: black;
+}
+
+.informacion a {
+    text-decoration: none;
+    color: green;
+}
+
+.elementos {
+    width: 45%;
+    margin-left: 3rem;
+}
+
+.elementos h2 {
+    text-indent: 6.5%;
+    font-style: oblique;
+    color: grey;
+}
+
+.imagenPrincipal img {
+    max-width: 120%;
+    height: 16.6rem;
+}
+
+.fil1col1 {
+    background-color: red;
+}
+
+.fil1col2 {
+    background-color: rebeccapurple;
+    color: white;
+}
+
+.fil2col2 {
+    background-color: rebeccapurple;
+}
+
+.logo1 {
+    background-color: rebeccapurple;
+}
+
+.logo2 {
+    background-color: rosybrown;
+}
+
+.logo3 {
+    background-color: rebeccapurple;
+    color:whitesmoke;
+}
+
+.logo4 {
+    background-color: palevioletred;
+}
+
+.logo5 {
+    background-color: grey;
+}
+
+.logo6 {
+    background-color: greenyellow;
+}
+
+.oscuro {
+    background-color: gold;
+}
+
+.efectosDeLista li {
+    margin-bottom: 1rem;
+    font-weight: bold;
+}
+
